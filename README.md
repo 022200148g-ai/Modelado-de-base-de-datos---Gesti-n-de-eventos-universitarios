@@ -1,14 +1,14 @@
 # Modelado-de-base-de-datos---Gesti-n-de-eventos-universitarios
 # 🎓 Proyecto: Gestión de Eventos en una Universidad
 
-## 🧩 Descripción
+##  Descripción
 
 Este proyecto forma parte de la **Evaluación Sustitutoria – Unidad II** del curso **Modelado de Base de Datos**.  
 El objetivo es diseñar e implementar una base de datos relacional que permita **gestionar los eventos universitarios**, registrando departamentos, ponentes, estudiantes y su participación.
 
 ---
 
-## 🧱 Modelo Conceptual
+##  Modelo Conceptual
 
 El modelo conceptual representa las entidades y relaciones principales involucradas en la gestión de eventos.
 
